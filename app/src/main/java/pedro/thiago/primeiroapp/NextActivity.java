@@ -18,5 +18,7 @@ public class NextActivity extends AppCompatActivity {
         String textoDigitado = i.getStringExtra("texto");
         TextView tvTexto = findViewById(R.id.tv_texto);
         tvTexto.setText(textoDigitado);
+
+        /*alo*/
     }
 }

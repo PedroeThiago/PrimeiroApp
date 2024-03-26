@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
                 /* executa a intenção de mudar a tela*/
                 startActivity(i);
+
+                /*pintomijobosta*/
             }
         });
     }
